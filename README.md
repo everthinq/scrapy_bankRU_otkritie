@@ -7,10 +7,10 @@ I'm using Python3 and Scrapy framework as core, openpyxl as excel sheets reader/
 ### Instructions:
 
 0) Install Python3 -- https://www.python.org/
-1) Install virtualenv -- pip install virtualenv
-2) Create a virtual environment inside that folder -- virtualenv venv
-3) Activate the virtual environment -- source venv/bin/activate
-4) Install requirements.txt -- pip install -r requirements.txt
-5) To open the main source file, go to scrapy_otkritie/scrapy_otkritie/spiders -- otrkitie.py
-6) You can run spider through terminal command -- scrapy crawl otkritie -- (for otkritie.py)    
-6.5) Or you can run main.py which does the same thing ('scrapy crawl otkritie')
+1) Install virtualenv -- *pip install virtualenv*
+2) Create a virtual environment inside that folder -- *virtualenv venv*
+3) Activate the virtual environment -- *source venv/bin/activate*
+4) Install requirements.txt -- *pip install -r requirements.txt*
+5) To open the main source file, go to *scrapy_otkritie/scrapy_otkritie/spiders -- otrkitie.py*
+6) You can run spider through terminal command -- *scrapy crawl otkritie* 
+6.5) Or you can run main.py which does the same thing *scrapy crawl otkritie*

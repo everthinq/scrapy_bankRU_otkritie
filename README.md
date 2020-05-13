@@ -1,6 +1,8 @@
-Please, use UNIX based operation system to test this solution. Everything was written for UNIX based OS. When I tried to test it on Windows, I had couple of problems with installing Scrapy framework (C++14 error, etc). I'm using Python3 and Scrapy framework as core, openpyxl as excel sheets reader/writer
+Please, use UNIX based operation system to test this solution. Everything was written for UNIX based OS. When I tried to test it on Windows, I had couple of problems with installing Scrapy framework (C++14 error, etc). 
 
-## This scrapy project parses [Otkritie Bank of Russia map](https://www.open.ru/map) through API to get branches data and stores scraped data into xlsx file
+I'm using Python3 and Scrapy framework as core, openpyxl as excel sheets reader/writer
+
+### This scrapy project parses [Otkritie Bank of Russia map](https://www.open.ru/map) through API to get branches data and stores scraped data into xlsx file
 
 ### Instructions:
 

@@ -2,7 +2,7 @@ Please, use UNIX based operation system to test this solution. Everything was wr
 
 I'm using Python3 and Scrapy framework as core, openpyxl as excel sheets reader/writer
 
-### This scrapy project parses [Otkritie Bank of Russia map](https://www.open.ru/map) through API to get branches data and stores scraped data into xlsx file
+### This scrapy project parses [Otkritie Bank of Russia map](https://www.open.ru/map) through API to get branches data and stores scraped data into *.xlsx file
 
 ### Instructions:
 
